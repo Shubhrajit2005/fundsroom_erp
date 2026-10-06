@@ -2,7 +2,7 @@
 
 A small PERN application for the case study workflow: customer enquiry → quotation → sales order → inventory reservation → dispatch.
 
-## Stack
+## Stack  
 
 - PostgreSQL relational schema with constraints, foreign keys, and row-level transactions
 - Node.js and Express REST API
